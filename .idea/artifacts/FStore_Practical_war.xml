@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="FStore_Practical:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>FStore_Practical</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="FStore_Practical-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="FStore_Practical:war exploded" />
+    </root>
+  </artifact>
+</component>
